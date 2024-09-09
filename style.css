@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(186, 134, 66);
+    border: 5;
+    padding-left: 5%;
+    margin-block:inherit;
+}
+p{
+    text-align: justify;
+    font-size: larger;
+    font-weight: 700;
+    color: blue;
+}
+h1{ 
+    font-style: normal;
+    font: optional;
+    font-weight: 2000;
+    color: rgb(16, 4, 60); 
+    background-color: rgb(202, 234, 234);
+}
+h2{ 
+    font-style: normal;
+    font: optional;
+    font-weight: 1000;
+    color: rgb(16, 4, 60); 
+    background-color: rgb(202, 234, 234);
+}
+h3{ 
+    font-style: normal;
+    font: optional;
+    font-weight: 1000;
+    color: rgb(16, 4, 60); 
+    background-color: rgb(202, 234, 234);
+}
+h4{ 
+    font-style: normal;
+    font: optional;
+    font-weight: 1000;
+    color: rgb(16, 4, 60); 
+    background-color: rgb(202, 234, 234);
+}
+table{
+    font-style: normal;
+    font: bold;
+    color: rgb(16, 4, 60);
+    max-width: 20px;
+}
+h5{
+    font-style: normal;
+    font: optional;
+    font-weight: 500;
+    color: rgb(16, 4, 60); 
+    background-color: rgb(202, 234, 234);
+}
+h6{
+    font-style: normal;
+    font: optional;
+    font-weight: 500;
+    color: rgb(16, 4, 60); 
+    background-color: rgb(202, 234, 234);
+}
